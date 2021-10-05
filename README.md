@@ -1,3 +1,5 @@
+# Discription
+This is a pytorch implementation of Chinese News Summarization by fine tune mt5-small model.
 # ADL21-HW3
 Dataset & evaluation script for ADL 2021 homework 3
 ## create enviroment

@@ -1,0 +1,1 @@
+python summerization_test.py  --input_file="${1}"  --prediction_file="${2}"
